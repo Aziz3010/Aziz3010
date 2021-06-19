@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ahmed Abdelaziz
+- 👀 I’m interested in Web Developing Industry
+- 🌱 I’m currently learning JavaScript, React.Js
+- 📫 You can contact with me on my Gmail account ["a.abdelazizg@gmail.com"] or LinkedIn account ["linkedin.com/in/ahmedgomaa3"]
